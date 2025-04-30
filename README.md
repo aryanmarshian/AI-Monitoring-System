@@ -1,7 +1,8 @@
-### 🛡️ Smart Surveillance & Drone Detection System
+## 🛡️ Smart Surveillance & Drone Detection System
 
 This is a real-time AI-powered surveillance system capable of detecting **humans**, **animals**, and **drones** using YOLOv8 and Vision Transformers. It captures frames from a live video feed, enhances image quality, detects objects, sends email alerts, saves data to MongoDB, and optionally identifies camera location via IP-based geolocation.
 
+ 
 
 ## 🚀 Features
 
@@ -27,7 +28,9 @@ This is a real-time AI-powered surveillance system capable of detecting **humans
 - Custom Vision Transformer for experimentation
 
 
+
 ## 🛠️ Setup Instructions
+
 
 ### 1. Clone the Repository
 
@@ -36,11 +39,13 @@ git clone https://github.com/yourusername/smart-surveillance.git
 cd smart-surveillance
 ```
 
+
 ### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
+
 
 ### 3. Download YOLOv8 Models
 
@@ -49,7 +54,7 @@ pip install -r requirements.txt
 
 > 📁 Ensure the weights are in the correct path or update the paths in the code accordingly.
 
----
+
 
 ## 🔐 Email Configuration
 
@@ -64,16 +69,19 @@ smtp.login('your_email@gmail.com', 'your_app_password')  # Use App Password
 > ⚠️ Enable **2-Step Verification** and use **App Passwords** for Gmail.
 
 
+
+
 ## 🖥️ Run the Program
 
 ```bash
 python main.py
 ```
 
+
+
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/14bea68b-f905-4ecf-9766-6b04f60f3d5e)
-
-![Screenshot (408)](https://github.com/user-attachments/assets/e893b22a-2851-4fb6-9bb9-2720fcd24ce3)
+![Screenshot 2025-02-19 225921](https://github.com/user-attachments/assets/9bcb84a3-15d7-48b1-a0c9-5b0ba4582e41)
 
 ![Screenshot (394)](https://github.com/user-attachments/assets/d29720a2-fa16-4e50-ac86-89c2514cb695)
 
@@ -94,10 +102,12 @@ python main.py
   - `image_id`
 
 
+
 ## 🧑‍💻 Author
 
 - **Aryan Singh**  
   *Built for academic/experimental use*
+
 
 
 ## 📜 License
