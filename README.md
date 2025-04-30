@@ -1,4 +1,4 @@
-###🛡️ Smart Surveillance & Drone Detection System
+### 🛡️ Smart Surveillance & Drone Detection System
 
 This is a real-time AI-powered surveillance system capable of detecting **humans**, **animals**, and **drones** using YOLOv8 and Vision Transformers. It captures frames from a live video feed, enhances image quality, detects objects, sends email alerts, saves data to MongoDB, and optionally identifies camera location via IP-based geolocation.
 
