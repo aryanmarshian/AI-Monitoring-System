@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+numpy
+pymongo
+gridfs
+geocoder
+scikit-image
+torch
+einops
